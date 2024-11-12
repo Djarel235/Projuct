@@ -1,0 +1,1672 @@
+li{
+   list-style: none;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+h1{
+   padding: 0px 0px 0px 0px;
+   margin: 0px 0px 0px 0px;
+}
+a{
+   text-decoration: none;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   color: #333333;
+}
+ul{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+p{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+body{
+   max-width: 1440px;
+   font-family: "Montserrat", sans-serif;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   color: #333333;
+   ;
+}
+
+/*-----------------------------------------------------Header-------------------------------------------*/
+
+
+
+.header {
+   border-bottom: 1px solid #EFF2F2;
+   height: 73px;
+}
+.container {
+   padding: 0px 120px;
+}
+.navigaciya {
+   display: flex;
+   font-family: "Montserrat";
+   font-size: 14px;
+   font-weight: 500;
+   line-height: 15.96px;
+   letter-spacing: 0.25px;
+   text-align: center;
+   align-items: center;
+}
+.navigaciya__logo {
+   margin: 0px 0px 0px 0px;
+}
+
+.spisak-nazvaniya{
+   color: #333333;
+}
+
+.navigaciya__navigaciya {
+   margin: 0px 285px 0px 51px;
+}
+.navigaciya__spisak {
+   display: flex;
+   align-items: center;
+   justify-items: center;
+}
+.spisak {
+   padding: 0px 30px 0px 0px;
+}
+.spisak-img {
+   padding: 0px 30px 0px 8px;
+}
+.navigaciya__button {
+   font-family: "Montserrat";
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 19.5px;
+   text-align: center;
+   color: #03B2A5;
+   background-color: #E3F5F5;
+   border-radius: 4px;
+   border: none;
+   padding: 14px 20px;
+   margin: 14px 0px 0px 0px;
+}
+
+
+/*-----------------------------------------------------Footer-------------------------------------------*/
+
+
+
+.footer {
+   background-color: #2963A3;
+   max-width: 1440px;
+   max-height: 302px;
+   margin: 96px 0px 0px 0px;
+   padding-bottom: 17px;
+}
+.block-content {
+   padding: 40px 0px 24px 0px;
+   display: flex;
+   max-height: 320px;
+}
+.block-content-bistriy-silka {
+   display: flex;
+   padding: 0px 91.5px 0px 0px;
+}
+.bistriy-silka-blok-1 {
+   padding: 0px 93px 0px 0px;
+
+}
+.silka-blok-1-spisak-razmer {
+   margin: 0px 0px 16px 0px;
+}
+.silka-block-1-spisak-nazvaniya {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: left;
+   color: #FFFFFF;
+   margin: 0px 0px 16px 0px;
+}
+.silka-block-1-spisak-nazvaniya-1 {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: left;
+   color: #FFFFFF;
+}
+
+
+
+.block-content-otpravka-mail {
+   max-width: 486px;
+   margin: 0px 125.5px 0px 0px;
+}
+.otpravka-mail {
+   max-width: 384px;
+}
+.otpravka-mail-zagolovok {
+   margin: 0px 0px 8px 0px;
+}
+.otpravka-mail-zagolovok-razmer {
+   padding: 0px 0px 0px 0px;
+   margin: 0px 0px 0px 0px;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 26px;
+   text-align: left;
+   color: #fff;
+}
+.otpravka-mail-otpravka {
+   max-width: 384px;
+   max-height: 48px;
+   padding: 14px 169px 14px 16px;
+   border-radius: 4px;
+   border: none;
+}
+.otpravka-mail-content {
+   margin: 8px 0px 0px 0px;
+}
+.otpravka-mail-content-razmer {
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 18px;
+   letter-spacing: 0.25px;
+   text-align: left;
+   color: #fff;
+   opacity: 70%;
+}
+
+.otpravka-mail-zapolnenie-img {
+   display: flex;
+}
+
+.otpravka-mail-zapolnenie-knopka {
+   background-color: #16C8BB;
+   padding: 0px 0px 0px 0px;
+   border: none;
+}
+.otpravka-mail-zapolnenie-knopka-img {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   width: 19.46px;
+   height: 21.31px;
+   top: 13.35px;
+   left: 23px;
+   gap: 0px;
+   opacity: 0px;
+   
+}
+.otpravka-mail-zapolnenie-img-1{
+   border: 1px solid #16C8BB;
+   background-color: #16C8BB;
+   width: 40px;
+   display: flex;
+   align-items: center;
+   padding-left: 20px;
+   border-radius: 4px;
+   margin-left: -34px;
+}
+
+
+.bistriy-logo-1 {
+   text-align: center;
+}
+
+.logo-2 {
+   margin: 0px 0px 12.02px 8.16px;
+}
+.logo-3 {
+   margin: 0px 16px 0px 0px;
+}
+.logo-4 {
+   margin: 0px;
+}
+.bistriy-logo-2 {
+   margin: 40px 0px 0px 0px;
+}
+
+
+.block-content-polosa {
+   border: 1px solid #9D9D9D;
+   background-color: #9D9D9D;
+   width: 1200px;
+   margin: 0px 0px 16px 0px;
+}
+
+.block-content-yr-doument{
+   margin: 0px 0px 17px 0px;
+}
+
+.block-content-yr-doument-silka {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: left;
+   margin: 0px 48px 0px 0px;
+   color: #FFFFFF;
+   opacity: 70%;
+}
+
+
+/*-----------------------------------------------------Zagolovok-------------------------------------------*/
+
+
+
+.container-content{
+   max-width: 690px;
+   margin: 0px 0px 0px 0px;
+   display: grid;
+   grid-template-columns: 690px 650px;
+}
+
+.main__zagolovok {
+   padding: 16px 0px 0px 6px;
+   display: flex;
+}
+.main__zagolovok-silka {
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 18px;
+   letter-spacing: 0.25px;
+   text-align: center;
+   padding: 0px 4px 0px 0px;
+   color: #333333B2;
+   ;
+}
+.main__zagolovok-strelka {
+   padding: 0px 0px 8px 0px;
+}
+
+.main__zagolovok-blog {
+   padding: 30px 0px 32px 0px;
+   margin: 0px 0px 0px 0px;
+}
+
+.zagolovok-blog-razmer {
+   font-size: 48px;
+   font-weight: 700;
+   line-height: 56px;
+   text-align: left;
+   margin: 0px 0px 0px 0px;
+}
+
+
+
+/*----------------------------------------------------- Avtor -------------------------------------------*/
+
+
+.main__avtor {
+   display: flex;
+   align-items: center;
+   justify-items: center;
+}
+
+.main__avtor-tochka {
+   padding: 0px 8px 0px 8px;
+   margin: 0px 0px 8px 0px;
+}
+
+
+.main__img {
+   margin: 24px 0px 0px 0px;
+}
+
+
+.main__content-1 {
+   display:flex;
+   align-items: center;
+}
+
+.main__content-1-text-razmer {
+   text-decoration:underline;
+}
+
+.main__content-content-1 {
+   margin: 0px 0px 4px 56px;
+}
+.main__content-content-2 {
+   margin: 0px 0px 4px 72px;
+}
+.main__content-content-3 {
+   margin: 0px 0px 4px 88px;
+}
+
+
+.main__content-3 {
+   margin: 0px 0px 14px 0px;
+   display: flex;
+}
+.main__content-2 {
+   margin: 0px 0px 8px 0px;
+   display: flex;
+}
+
+
+.main__content-4 {
+   margin: 24px 0px 16px 0px;
+   padding: 0px 0px 0px 0px;
+}
+.main__content-3-zagolovok {
+   padding: 0px 0px 0px 0px;
+   margin: 0px 0px 0px 0px;
+}
+.main__content-3-text-1 {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+   padding: 0px 0px 25px 0px;
+}
+.main__content-3-text-2 {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+
+.main__content-5 {
+   padding: 40px 0px 0px 0px;  
+   padding: 24px;
+}
+.main__content-5-img {
+   position: absolute;
+   margin: -12px 0px 0px 0px;
+}
+
+.main__content-5-avtor {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: left;
+   
+}
+
+
+.main__content-6 {
+   margin: 24px 0px 24px 0px;
+}
+
+.main__content-6-content {
+   display: flex;
+   align-items: start;
+   margin: 0px 0px 16px 0px;
+}
+.main__content-6-content-img {
+   margin: 0px 8px 0px 0px;
+}
+.main__content-6-content-text {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-7 {
+   margin: 0px 0px 24px 0px;
+}
+.main__content-7-img {
+   margin: 0px 0px 16px 0px;
+}
+
+.main__content-7-img-opisanie {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 18.2px;
+   letter-spacing: 0.25px;
+   text-align: left;
+   color: #868686;
+}
+
+
+.main__content-8-razmer {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-9 {
+   margin: 24px 0px 24px 0px;
+   max-width: 691px;
+   max-height: 168px;
+   padding: 24px 104px 48px 102px;
+}
+.main__content-9-img {
+   position: absolute;
+   left: 323.5px;
+   bottom: -2018px;
+}
+
+.main__content-9-content-razmer {
+   font-size: 16px;
+   font-style: italic;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: center;
+   color: #333333;
+   position: relative;
+}
+
+
+.main__content-10 {
+   margin: 0px 0px 0px 0px;
+}
+.main__content-10-text {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+
+.main__content-11 {
+   margin: 24px 0px 0px 0px;
+   gap: 24px;
+   display: flex;
+}
+
+.main__content-11-text-razmer {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-12 {
+   margin: 24px 0px 0px 0px;
+}
+.main__content-12-text {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-13 {
+   padding: 24px;
+   background-color: #FEFAEC;
+   margin: 24px 0px 0px 0px;
+}
+.main__content-13-zaglavie {
+   margin: 0px 0px 8px 0px;
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-13-text-razmer {
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+
+.main__content-14{
+   margin: 24px 0px 0px 0px;
+}
+
+.main__content-15{
+   background-color: #FFF3EB;
+   margin: 24px 0px 0px 0px;
+   padding: 24px;
+}
+
+.main__content-16 {
+   display: flex;
+   gap: 24px;
+   margin: 24px 0px 0px 0px;
+}
+.main__content-16-1 {
+   max-width: 333px;
+}
+.main__content-16-img {
+   margin: 0px 0px 24px 0px;
+}
+
+
+
+.main__content-17-img{
+   margin: 24px 0px 24px 0px;
+   text-align: center;
+}
+
+.main__content-18{
+   margin: 24px 0px 24px 0px;
+   background-color: #03B2A51A;
+   padding: 24px;
+}
+
+
+.main__content-19 {
+   margin: 24px 0px 48px 0px;
+}
+.main__content-19-1 {
+   display: flex;
+   align-items: center;
+   margin: 0px 0px -2px 0px;
+
+
+}
+.main__content-19-1-silki {
+   color: #2963A3;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: left;
+   
+}
+.main__content-19-1-silki-tochka {
+   margin: 0px 8px 4px 8px;
+}
+
+
+
+
+/*-----------------------------------------------------Kartochka vracha-------------------------------------------*/
+
+
+
+.container-content-2 {
+   margin: 88px 0px 0px 228px;
+}
+.container-content-2-carta {
+   max-width: 235px;
+   border: none;
+   background-color: #E6F0FD;
+   border-radius: 16px;
+   text-align: center;
+   padding: 24px;
+}
+.content-2-carta {
+   max-width: 234px;
+   max-height: 464px;
+}
+.content-2-carta-img {
+   margin: 0px 0px 0px -10px;
+   padding: 0px 0px 0px 0px;
+}
+.content-2-carta-content {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+.carta-content-zagolovok {
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   color: #333333;
+   margin: 24px 0px 8px 0px;
+   padding: 0px 0px 0px 0px;
+}
+.carta-content-opisanie {
+   margin: 0px 0px 24px 0px;
+}
+.carta-content-opisanie-razmer {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: center;
+   color: #333333;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+.carta-content-knopka {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   color: #FFFFFF;
+   background-color: #35B3A9;
+   padding: 12px 70px;
+   margin: 0px 0px 0px 0px;
+   border: none;
+   border-radius: 4px;
+}
+
+.carta-content-knopka-1{
+   max-width: 234px;
+   max-height: 48px;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+
+
+.container-content-2-carta-2 {
+   margin: 24px 0px 0px 0px;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 18px;
+   letter-spacing: 0.25px;
+   text-align: left;
+   border: 1px solid #EFF5FB;
+   border-radius: 16px;
+   max-width: 282px;
+   max-height: 490px;
+   
+}
+.content-2-carta-2-img {
+   position: absolute;
+   left: 1124px;
+   top: 728px;
+}
+.content-2-carta-2-svyaz {
+   padding: 24px;
+}
+.content-2-carta-2-svyaz-perepiska {
+   display:flex;
+   border: none;
+   border-radius: 6px;
+   background-color: #F3F4F8B2;
+   padding: 3px 6px;
+   max-width: 89px;
+   color: #333333;
+   margin: 0px 0px 8px 0px;
+   position: relative;
+}
+.content-2-carta-2-svyaz-perepiska-1 {
+   display:flex;
+   border: none;
+   border-radius: 6px;
+   background-color: #F3F4F8B2;
+   padding: 3px 6px;
+   max-width: 58px;
+   color: #333333;
+   position: relative;
+}
+.content-2-carta-2-svyaz-perepiska-img {
+   margin: 0px 1px 8px 0px;
+}
+
+
+
+.content-2-carta-2-content {
+   margin: 80px 0px 0px -8px;
+   padding: 0px 0px 0px 0px;
+   color: #333333;
+   display: flex;
+   border-bottom: 1px solid #DEDEDE ;
+   width: 250px;
+   justify-content: center;
+   padding: 0px 0px 16px 0px;
+}
+.carta-2-content-info-vrach {
+   text-align: center;
+}
+.carta-2-content-info-vrach-imya {
+   font-family: Montserrat;
+   font-size: 20px;
+   font-weight: 700;
+   line-height: 28px;
+   text-align: center;
+   color: #333333;
+}
+.carta-2-content-info-vrach-prof {
+   font-family: Montserrat;
+   font-size: 16px;
+   font-weight: 600;
+   line-height: 24px;
+   text-align: center;
+   color: #333333;
+}
+.carta-2-content-info-vrach-opit {
+   font-family: Montserrat;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: left;
+   color: #A2A7B1;
+   display: flex;
+   margin: 0px 0px 0px 0px;
+   align-items: end;
+}
+
+.carta-2-content-info-vrach-tochka {
+   margin: -3px 8px 5px 8px;
+}
+
+
+
+.carta-2-content-info-s-chem-rabotaet {
+   margin: 16px 0px 0px 0px;
+}
+.info-s-chem-rabotaet {
+   margin: 0px 0px 8px 0px;
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: left;
+   color: #333333;
+}
+.info-s-chem-rabotaet-psiholog {
+   display: flex;
+   margin: 0px 0px 8px 0px;
+}
+
+.info-s-chem-rabotaet-psiholog-text {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: left;
+   color: #333333;
+}
+
+.carta-content-knopka-2 {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   color: #FFFFFF;
+   background-color: #35B3A9;
+   padding: 12px 73px;
+   margin: 0px 0px 0px 0px;
+   border: none;
+   border-radius: 4px;
+   margin: 0px 0px 36px 0px;
+}
+
+
+.container-content-2-carta-3 {
+   margin: 28px 0px 0px 0px;
+}
+
+
+.container-content-2-carta-4 {
+   max-width: 282px;
+   max-height: 304px;
+   padding: 0px;
+   border: 3px solid #EFF5FB;
+   border-radius: 24px;
+   margin-top: 42px;
+}
+
+.content-2-carta-4{
+   margin: 32px;
+}
+.content-2-carta-4-zagolovok {
+   display: flex;
+   align-items: center;
+   margin: 0px 0px 16px 0px;
+
+}
+.content-2-carta-4-zagolovok-razmer {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 4px 0px 0px;
+   color: #2963A3;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   text-align: left;
+   
+}
+.content-2-carta-4-zagolovok-razmer-1 {
+   margin: 2px 0px 0px 0px;
+   padding: 0px 4px 0px 0px;
+   color: #2963A3;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 26px;
+   text-align: left;
+   
+}
+.content-2-carta-4-text {
+   margin: 0px 0px 16px 0px;
+}
+.content-2-carta-4-text-razmer {
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 20px;
+   text-align: left;
+   color: #011632;
+   ;
+}
+.content-2-carta-4-cena {
+   margin: 0px 0px 16px 0px;
+}
+.content-2-carta-4-cena-razmer {
+   margin: 0px 0px 0px 0px;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 32px;
+   text-align: left;
+   color: #333333;
+
+
+}
+
+
+.content-2-carta-4-knopka-razmer {
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 24px;
+   text-align: center;
+   padding: 12px 25px;
+   background-color: #35B3A9;
+   border: none;
+   color: #FFFFFF;
+   border-radius: 4px;
+}
+.content-2-carta-4-img {
+   top: 1676px;
+   left: 1114px;
+   position: absolute;
+}
+.content-2-carta-4-img-1 {
+   top: 100px;
+   left: 100px;
+   position: absolute;
+   border-radius: 0px 0px 24px;
+}
+.content-2-carta-4-img-2 {
+   top: 113px;
+   left: 123px;
+   position: absolute;
+   border-radius: 0px 0px 24px;
+}
+
+
+.content-2-carta-5-img-1 {
+   top: 2440px;
+   left: 1242px;
+   position: absolute;
+}
+.spisak-2{
+   display: none;
+}
+.container-content-2-carta-2 {
+   border: 3px solid #EFF5FB;
+}
+.main__img-1{
+   display: none;
+}
+.container-content-2-carta-3-img-1{
+   display: none;
+}
+.content-2-carta-4-img-3{
+   display: none;
+}
+.content-2-carta-4-img {
+   top: 1660px;
+   left: 1114px;
+   position: absolute;
+}
+.main__zagolovok-silka-2{
+   display: none;
+   
+}
+.main__avtor-tochka-1 {
+   display: none;
+}
+.main__avtor-tochka-silka {
+   display: none;
+}
+.main__content-11-img-1{
+   display: none;
+}
+.main__zagolovok-silka-2{
+   display: none;
+}
+.main__zagolovok-silka-4{
+   display: none;
+}
+
+
+
+@media (max-width:1024px) {
+   .container {
+      padding: 0px 32px;
+   }
+   .navigaciya__navigaciya {
+      margin: 0px 20px 0px 32px;
+   }
+   .spisak {
+      padding: 0px 16px 0px 0px;
+   }
+   .navigaciya__logo {
+      margin: 13px 0px 0px 0px;
+   }
+   .navigaciya__spisak {
+      margin-top: 10px;
+   }
+   .spisak-img {
+      padding: 0px 16px 0px 8px;
+   }
+   .spisak-2{
+      display: flex;
+      margin: 0px 16px 0px 0px;
+   }
+   .spisak-nazvaniya-1{
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 15.96px;
+      letter-spacing: 0.25px;
+      text-align: center;
+      align-items: center;
+   }
+   .container-content-2-carta {
+      padding: 20px;
+      max-width: 184px;
+      max-height: 477px;
+   }
+   .content-2-carta-img {
+      margin: 0px 0px 0px -4px;
+      padding: 0px 0px 0px 0px;
+      width: 191px;
+   }
+   .container-content-2-carta {
+      padding: 27px;
+      padding-bottom: 25px;
+   }
+   .carta-content-knopka {
+      padding: 12px 40px;
+   }
+   .container-content-2 {
+      margin: 61px 0px 0px 24px;
+   }
+   .main__content-19 {
+      display: none;
+   }
+   .content-2-carta-2-img {
+      position: absolute;
+      left: 808px;
+      top: 700px;
+   }
+   .container-content-2-carta-2 {
+      max-width: 236px;
+      max-height: 542px;
+   }
+   .content-2-carta-2-content {
+      margin: 80px 0px 0px 7px;
+   }
+   .content-2-carta-2-content {
+      width: 174px;
+   }
+   .info-s-chem-rabotaet-psiholog {
+      display: flex;
+      margin: 0px 0px 8px 0px;
+      align-items: center;
+   }
+   .info-s-chem-rabotaet-psiholog-1 {
+      display: flex;
+      margin: 0px 0px 16px 0px;
+      align-items: center;
+   }
+   .carta-content-knopka-2 {
+      padding: 12px 50px;
+   }
+   .container-content-2-carta-3-img {
+      width: 239px;
+   }
+   .container-content-2-carta-4 {
+      max-width: 237px;
+      max-height: 349px;
+   }
+   .main__content-9-img {
+      position: absolute;
+      left: 235.5px;
+      bottom: -1655px;
+   }
+   .content-2-carta-5-img-1 {
+      display: none;
+   }
+   .content-2-carta-4-img-1 {
+      top: 117px;
+      left: -234px;
+   }
+   .content-2-carta-4-knopka-razmer {
+      padding: 12px 23px;
+   }
+   .content-2-carta-4-img-2 {
+      top: 130px;
+      left: -212px;
+   }
+   .container-content {
+      grid-template-columns: 690px 300px;
+   }
+   .block-content-polosa {
+      width: 960px;
+   }
+   .block-content-bistriy-silka {
+      display: flex;
+      padding: 0px 21px 0px 0px;
+   }
+   .bistriy-silka-blok-1 {
+      padding: 0px 30px 0px 0px;
+   }
+   .block-content-otpravka-mail {
+      max-width: 486px;
+      margin: 0px 21px 0px 0px;
+   }
+   .bistriy-logo-1 {
+      display: flex;
+      align-items: center;
+   }
+   .block-content-polosa-1{
+      margin-top: -6px;
+   }
+   .main__content-2 {
+      margin: 0px 0px 8px 0px;
+      display: none;
+   }
+   .main__content-3 {
+      margin: 0px 0px 8px 0px;
+      display: none;
+   }
+   .main__content-content{
+      display: none;
+   }
+   .main__img-1{
+      display: none;
+   }
+   .container-content-2-carta-3-img-1{
+      display: none;
+   }
+   .content-2-carta-4-img-3{
+      display: none;
+   }
+   .main__content-9-img {
+      position: absolute;
+      left: 235.5px;
+      bottom: -1873px;
+   }
+   .content-2-carta-4-img {
+   top: 1657px;
+   left: 1114px;
+   position: absolute;
+}
+.main__avtor-tochka-1 {
+   padding: 0px 8px 0px 8px;
+   margin: 0px 0px 8px 0px;
+   display: flex;
+}
+.main__avtor-tochka-silka {
+   display: flex;
+}
+.main__content-11-img-1{
+   display: none;
+}
+
+}
+
+@media (max-width:764px) {
+   .navigaciya__button {
+      display: block;
+      cursor: pointer;
+      position: relative;
+      border: none;
+      background: transparent;
+      width: 18px;
+      height: 9.8px;
+      color: #FFFFFF;
+      margin-bottom: 17px;
+   }
+   .navigaciya__button::before,
+   .navigaciya__button::after {
+      content: '';
+      left: 0;
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 4px;
+      border-radius: 10px;
+      background: #03B2A5;
+
+   }
+   .navigaciya__button::before {
+      top: 0;
+      box-shadow: 0 11px 0 #03B2A5;
+      transition: box-shadow .3s .15s, top .3s .15s, transform .3s;
+   }
+   .navigaciya__button::after {
+      bottom: 0;
+      transition: bottom .3s .15s, transform .3s;
+   }
+   .navigaciya__button.active::before {
+      top: 11px;
+      transform: rotate(45deg);
+      box-shadow: 0 6px 0 rgba(0,0,0,0);
+      transition: box-shadow .15s, top .3s, transform .3s .15s;
+   }
+   .navigaciya__button.active::after {
+      bottom: 11px;
+      transform: rotate(-45deg);
+      transition: bottom .3s, transform .3s .15s;
+   }
+   .navigaciya__navigaciya {
+      margin: 0px 605px 0px 32px;
+   }
+   .container {
+      padding: 0px 20px;
+   }
+   .container-content {
+      max-width: 690px;
+      margin: 0px 0px 0px 0px;
+      display: block;
+   }
+   .container-content-2 {
+      margin: 23px 0px 0px 0px;
+      display: grid;
+      grid-template-columns: 355px 355px;
+      grid-template-rows: 452px 273px;
+      gap: 16px;
+   }
+   .container-content-2-carta {
+      padding: 0px 0px 0px 0px;
+      max-width: 356px;
+      max-height: 481px;
+   }
+   .container-content-2-carta-2 {
+      max-width: 356px;
+      max-height: 481px;
+      margin: 0px 0px 0px 0px;
+   }
+   .container-content-2-carta-3-img {
+      width: 345px;
+      height: 242px;
+   }
+   .container-content-2-carta-3-img{
+      display: none;
+   }
+   .container-content-2-carta-3-img-1{
+      height: 253px;
+      width: 353px;
+   }
+   .container-content-2-carta-3 {
+      margin: 20px 0px 0px 0px;
+   }
+   .container-content-2-carta-4 {
+      max-width: 356px;
+      max-height: 365px;
+      margin-top: 20px;
+   }
+   .content-2-carta-2-svyaz {
+
+      padding-bottom: 0px;
+   }
+   .content-2-carta-4 {
+      margin: 21px 21px 4px 21px;
+   }
+   .content-2-carta-img {
+      width: 257px;
+      margin: 0px 0px 0px 26px;
+   }
+   .content-2-carta-content {
+      margin: 0px 0px 0px 0px;
+      padding: 0px 0px 0px 0px;
+      width: 310px;
+   }
+   .carta-content-knopka {
+      padding: 12px 112px;
+  } 
+  .content-2-carta-2-svyaz {
+   padding: 16px;
+   }
+   .content-2-carta-2-content {
+      margin-left: 46px;
+  }
+  .footer {
+   max-height: 454px;
+   }
+   .block-content-polosa {
+      width: 728px;
+      margin-top: 26px;
+   }
+      .block-content {
+      padding: 40px 0px 24px 0px;
+      display: grid;
+      max-height: 320px;
+      grid-template-rows: 178px 196px;
+      grid-template-columns: 287px 426px;
+      }
+   .block-content-bistriy-logo {
+      margin-top: 26px;
+   }
+   .main__content-block-2 {
+   grid-template-columns: 351px 352px;
+   grid-template-rows: 480px;
+}
+.block-content-polosa-1{
+   margin-top: -6px;
+}
+.content-2-carta-2-img {
+   position: absolute;
+   left: 508px;
+   top: 4618px;
+}
+.content-2-carta-2-content {
+   width: 222px;
+}
+.carta-2-content-info-s-chem-rabotaet {
+   margin: 16px 0px 0px 45px;
+}
+.carta-content-knopka-2 {
+   padding: 12px 70px;
+}
+   .info-s-chem-rabotaet-psiholog-1 {
+      display: flex;
+      margin: 0px 0px 8px 0px;
+      align-items: center;
+   }
+   .container-content-2 {
+      grid-template-rows: 488px 273px;
+   }
+   .container-content-2-carta {
+      padding: 58px 22px 14px 22px;
+      max-width: 356px;
+      max-height: 481px;
+   }
+   .content-2-carta-4-img {
+      top: 5652px;
+      left: 837px;
+      position: absolute;
+      border-radius:0px;
+   }
+   .content-2-carta-4-img-2 {
+      border-radius: 0px;
+      display: none;
+   }
+   .content-2-carta-4-img-3 {
+   top: 140px;
+   left: -241px;
+   position: absolute;
+   border-radius: 0px;
+}
+.content-2-carta-4-img-1 {
+   top: 127px;
+   left: -272px;
+}
+.main__img {
+   display: none;
+}
+
+.main__content-18 {
+   margin: 24px 0px 24px 0px;
+   background-color: #03B2A51A;
+   padding: 24px;
+   max-width: 714px;
+}
+.container-content {
+   max-width: 714px;
+}
+.main__content-9-img {
+   position: absolute;
+   left: 235.5px;
+   bottom: -1990px;
+}
+.main__content-content{
+   display: none;
+}
+.main__content-2 {
+   margin: 0px 0px 8px 0px;
+   display: none;
+}
+.main__content-3 {
+   margin: 0px 0px 8px 0px;
+
+}
+.main__content-9-img {
+   position: absolute;
+   left: 235.5px;
+   bottom: -1499px;
+}
+.content-2-carta-4-img {
+   top: 5146px;
+   left: 837px;
+   position: absolute;
+   border-radius: 0px;
+}
+.container-content-2-carta-3-img {
+   width: 345px;
+   height: 242px;
+   display: none;
+}
+
+.container-content-2-carta-3-img-1 {
+   display: flex;
+}
+.navigaciya__spisak {
+   display: none;
+}
+.main__content-11-img-1{
+   display: none;
+}
+.content-2-carta-4-img-3 {
+   display: flex;
+   }
+   .block-content-polosa {
+      width: 374px;
+      margin-top: 183px;
+   }
+   .block-content-polosa {
+      width: 717px;
+      margin-top: 39px;
+   }
+}
+   
+
+
+
+
+@media (max-width:420px) {
+   .container {
+      padding: 0px 24px;
+   }
+   .navigaciya__button {
+      margin-left: 278px;
+   }
+   .header {
+      display: flex;
+      align-items: center;
+   }
+   .navigaciya__navigaciya {
+   display: none;
+   }
+   .navigaciya__button {
+      margin-left: 259px;
+      margin-bottom: 17px;
+   }
+   .container {
+      padding: 0px 24px;
+   }
+   .main__zagolovok-silka-1 {
+      display: none;
+   }
+   .main__zagolovok-silka-2{
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 18px;
+      letter-spacing: 0.25px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      
+   }
+   .main__zagolovok-silka-3{
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 18px;
+      letter-spacing: 0.25px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      
+   }
+   .footer {
+      max-height: 746px;
+   }
+   .block-content-polosa {
+      width: 374px;
+      margin-top: 26px;
+   }
+   .block-content {
+      padding: 40px 0px 24px 0px;
+      display: grid;
+      max-height: 320px;
+      grid-template-rows: 200px 178px 400px;
+      grid-template-columns: 395px;
+   }
+   .footer {
+      max-height: 859px;
+      padding-bottom: 0px;
+   }
+   .block-content {
+      padding: 35px 0px 24px 0px;
+   }
+   .bistriy-silka-blok-1 {
+      padding: 0px 153px 0px 0px;
+   }
+   .block-content-polosa-1{
+      margin-top: 190px;
+   }
+   .bistriy-logo-2 {
+      margin: 20px 0px 0px 0px;
+   }
+   .block-content-yr-doument {
+      margin: 0px 0px 17px 0px;
+      display: grid;
+   }
+   .block-content-yr-doument-silka {
+      margin: 0px 48px 20px 0px;
+   }
+   .main__zagolovok-silka-2{
+      display: flex;
+   }
+   .zagolovok-blog-razmer {
+      font-size: 32px;
+      line-height: 40px;
+   }
+   .main__content-7-img-razmer {
+      max-width: 374px;
+   }
+   .main__content-9 {
+      margin: 24px 0px 24px 0px;
+      max-width: 691px;
+      max-height: 168px;
+      padding: 18px 34px 18px 31px;
+      display: grid;
+      text-align: center;
+   }
+   .main__content-9-img {
+      position: absolute;
+      left: 81.5px;
+      bottom: -1803px;
+      width: 240px;
+   }
+   .main__content-11 {
+      margin: 24px 0px 0px 0px;
+      gap: 24px;
+      display: block;
+   }
+   .main__content-11-img{
+      display: none;
+   }
+   .main__content-11-img-1{
+      display: flex;
+      margin: 0px 0px 16px 0px;
+   }
+   .main__content-16 {
+      display: block;
+      gap: 24px;
+      margin: 24px 0px 0px 0px;
+   }
+   .main__content-16-img{
+      display: none;
+   }
+   .container-content-2 {
+      margin: 23px 0px 0px 0px;
+      display: block;
+   }
+   .container-content-2-carta {
+      margin-bottom: 24px;
+   }
+   .content-2-carta-2-img {
+      position: absolute;
+      left: 138px;
+      top: 7316px;
+   }
+   .content-2-carta-4-img {
+      top: 8095px;
+      left: 491px;
+      position: absolute;
+      border-radius: 0px;
+   }
+   .block-content-polosa {
+      width: 374px;
+      margin-top: 186px;
+  }
+}
+
+@media (max-width:320px) {
+   .navigaciya__button {
+      margin-left: 196px;
+   }
+   .container {
+      padding: 0px 16px;
+   }
+   .content-block-1-left-content {
+      max-width: 588px;
+      max-height: 240px;
+      margin: 16px 16px 69px 16px;
+   }
+  .left-content-opisanie-razmer-1 {
+   margin: 0px 0px 50px 0px;
+   }
+   .block-2-block-img-1 {
+      width: 285px;
+  }
+  .main__content-block-2 {
+   grid-template-columns: 285px;
+   grid-template-rows: 543px;
+   }  
+   .content-block-2-block {
+      max-width: 374px;
+      max-height: 600px;
+   }
+   .block-content-content-razmer {
+      margin: 0px 0px 14px 0px;
+   }
+   .block-content-polosa {
+      width: 288px;
+      margin-top: 26px;
+   }
+   .otpravka-mail-otpravka {
+      max-width: 100px;
+   }
+   .bistriy-silka-blok-1 {
+      padding: 0px 71px 0px 0px;
+   }
+   .otpravka-mail-zapolnenie-img-1 {
+      display: none;
+   }
+   .block-content {
+      grid-template-rows: 224px 201px 400px;
+      grid-template-columns: 303px;
+   }
+   .block-content-polosa-1{
+      margin-top: 231px;
+   }
+   .footer {
+      max-height: 739px;
+   }
+   .zagolovok-blog-razmer {
+      font-size: 24px;
+      line-height: 32px;
+   }
+   .main__zagolovok-silka-2{
+      display: none;
+   }
+   .main__zagolovok-silka-4{
+      display: flex;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: 18px;
+      letter-spacing: 0.25px;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+      
+   }
+   .main__zagolovok-blog {
+      padding: 32px 0px 8px 0px;
+      margin: 0px 0px 0px 0px;
+   }
+   .main__avtor-nazvaniya {
+      font-size: 15px;
+   }
+   .main__avtor-tochka {
+      padding: 0px 3px 0px 3px;
+      margin: 0px 0px 8px 0px;
+   }
+   .main__avtor-tochka-1 {
+      padding: 0px 3px 0px 3px;
+      margin: 0px 0px 8px 0px;
+      display: flex;
+   }
+   .main__content-soderjaniya {
+   margin: 16px 0px 8px 0px;
+   }
+   .main__content-3-zagolovok {
+      padding: 0px 0px 0px 0px;
+      margin: 0px 0px 8px 0px;
+   }
+   .main__content-7-img-razmer {
+   max-width: 286px;
+   }
+   .main__content-9 {
+      margin: 24px 0px 24px 0px;
+      max-width: 691px;
+      max-height: 168px;
+      padding: 18px 6px 18px 6px;
+      display: grid;
+      text-align: center;
+   }
+   .main__content-9-img {
+   position: absolute;
+   left: 38.5px;
+   bottom: -2074px;
+   width: 240px;
+}
+.main__content-11-img-1 {
+   display: flex;
+   margin: 0px 0px 16px 0px;
+   max-width: 288px;
+}
+.content-2-carta-img {
+   width: 257px;
+   margin: 0px 0px 0px 0px;
+}
+.content-2-carta-content {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   width: 236px;
+}
+.carta-content-knopka {
+   padding: 12px 79px;
+}
+.container-content-2-carta {
+   padding: 24px 22px 14px 22px;
+   max-width: 356px;
+   max-height: 481px;
+}
+.content-2-carta-2-content {
+   margin-left: 14px;
+}
+.carta-2-content-info-s-chem-rabotaet {
+   margin: 16px 0px 0px 10px;
+}
+.container-content-2-carta-3-img-1 {
+   height: 253px;
+   width: 293px;
+}
+.container-content-2-carta-3 {
+   margin: 0px 0px 0px 0px;
+}
+.container-content-2-carta-4 {
+   max-width: 356px;
+   max-height: 365px;
+   margin-top: 0px;
+}
+.content-2-carta-4-img {
+   top: 8972px;
+   left: 410px;
+   position: absolute;
+   border-radius: 0px;
+}
+.content-2-carta-2-img {
+   position: absolute;
+   left: 100px;
+   top: 8239px;
+}
+.block-content-polosa {
+   width: 288px;
+   margin-top: 232px;
+}
+
+}
